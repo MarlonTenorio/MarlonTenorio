@@ -1,24 +1,35 @@
-<h1 align="center">Oi 👋, sou Marlon Tenório</h1>
-<h3 align="center">Programador Frontend</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
+<h1 align="center">Oi 👋 </h1>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Meu+nome+é+Marlon+Tenório;Bem+Vindo+ao+meu+perfil+do+Github!" alt="Typing SVG" /></a>
+</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marlontenorio&label=Profile%20views&color=0e75b6&style=flat" alt="marlontenorio" /> </p>
 
-- 🌱 Atualmente estou aprendendo: **Javascript e React**
+<h2 align="center">Languages and Tools:</h3>
+<div align="center">
+  <img align="center" alt="Junior-HTML" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Junior-CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Junior-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
 
-- 📫 Como chegar até mim: **tenoriomarlong@gmail.com**
+<br> 
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marlonten%c3%b3rio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marlonten%c3%b3rio/" height="30" width="40" /></a>
-</p>
+<h2 align="center">Conecte-se comigo:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<div align="center"> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlontenorio&show_icons=true&locale=en&layout=compact" alt="marlontenorio" /></p>
+  <a href="https://www.linkedin.com/in/marlonten%C3%B3rio/" target="_blank" rel="external">
+  <img align="center" alt="Marlon-in" width="50px" src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png">
+  <a href="tenoriomarlong@gmail.com" target="_blank" rel="external">
+  <img align="center" alt="Marlon-email" width="50px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlontenorio&show_icons=true&locale=en" alt="marlontenorio" /></p>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marlontenorio&" alt="marlontenorio" /></p>
+<div align="center">
+  <a href="https://github.com/MarlonTenorio">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=marlontenorio&show_icons=true&locale=en&theme=dracula" alt="marlontenorio" />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlontenorio&show_icons=true&locale=en&layout=compact&langs_count=7&theme=dracula"/>
+</div>
