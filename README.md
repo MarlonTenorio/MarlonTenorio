@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Marlon Tenório</h1>
+<h1 align="center">Oi 👋, sou Marlon Tenório</h1>
 <h3 align="center">Programador Frontend</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlontenorio&label=Profile%20views&color=0e75b6&style=flat" alt="marlontenorio" /> </p>
 
-- 🌱 I’m currently learning **Javascript,React e React**
+- 🌱 Atualmente estou aprendendo: **Javascript e React**
 
-- 📫 How to reach me **tenoriomarlong@gmail.com**
+- 📫 Como chegar até mim: **tenoriomarlong@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marlonten%c3%b3rio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marlonten%c3%b3rio/" height="30" width="40" /></a>
 </p>
