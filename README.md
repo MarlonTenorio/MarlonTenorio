@@ -21,8 +21,7 @@
 
   <a href="https://www.linkedin.com/in/marlonten%C3%B3rio/" target="_blank" rel="external">
   <img align="center" alt="Marlon-in" width="50px" src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png">
-  <a href="tenoriomarlong@gmail.com" target="_blank" rel="external">
-  <img align="center" alt="Marlon-email" width="50px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png">
+
 </div>
 
 <br>
